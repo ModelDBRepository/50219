@@ -21,11 +21,6 @@ We propose that Golgi cells not only control the strength of parallel fiber acti
 
 ---
 
-Page last updated on Monday, 19-Apr-2004 13:54:34 CEST
-© BBF 1998 all rights reserved
-
----
-
 (Links – URLs shown in parentheses)
 
 - (http://www.tnb.ua.ac.be/aboutus/aboutus.shtml) about us
@@ -47,4 +42,8 @@ Please send comments and suggestions to Mike Wijnants at (http://www.tnb.ua.ac.b
 
 ---
 
-2025-05-27 – Standardized to Markdown.
+Page last updated on Monday, 19-Apr-2004 13:54:34 CEST  
+
+Standardized to Markdown on Tuesday, 27-May-2025  
+
+© BBF 1998 all rights reserved
